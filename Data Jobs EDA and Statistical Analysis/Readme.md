@@ -1,8 +1,8 @@
 This project shows EDA and Statistical Analysis of Data professionals in AI and Data science space. 
 
-We have used a Kaggle dataset containing weekly updated data regarding the Data jobs and salaries for each profession. [Dataset](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries/data?select=salaries.csv)
+-> We have used a Kaggle dataset containing weekly updated data regarding the Data jobs and salaries for each profession. [Dataset](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries/data?select=salaries.csv)
 
-There are 11 attributes present in the dataset. The description for each is as follows:
+-> There are 11 attributes present in the dataset. The description for each is as follows:
 
 **work_year**: The year the salary was paid.
 
@@ -22,11 +22,11 @@ There are 11 attributes present in the dataset. The description for each is as f
 - CT: Contract
 - FL: Freelance
 
-**job_title**: The role worked in during the year.
+**job_title**: The role worked during the year.
 
 **salary**: The total gross salary amount paid.
 
-**salary_currency**: The currency of the salary paid as an ISO 4217 currency code.
+**salary_currency**: The currency of the salary paid is an ISO 4217 currency code.
 
 **salary_in_usd**: The salary in USD (FX rate divided by avg. USD rate of the respective year via data from fxdata.foorilla.com).
 
@@ -49,3 +49,14 @@ There are 11 attributes present in the dataset. The description for each is as f
 - M: 50 to 250 employees (medium)
 
 - L: more than 250 employees (large)
+
+#### Libraries used: 
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SciPy
+
+-> For **Statistical Analysis**, we have used one-way ANOVA test.
+
+**One-way Analysis of Variance (ANOVA)**: is a statistical method used to assess whether there are any statistically significant differences between the means of three or more independent groups. It helps determine if there is a significant variation in the means of the groups, suggesting that at least one group is different from the others.
