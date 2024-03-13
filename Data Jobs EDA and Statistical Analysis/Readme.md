@@ -2,7 +2,7 @@ This project shows EDA and Statistical Analysis of Data professionals in AI and 
 
 -> We have used a Kaggle dataset containing weekly updated data regarding the Data jobs and salaries for each profession. [Dataset](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries/data?select=salaries.csv)
 
--> There are 11 attributes present in the dataset. The description for each is as follows:
+**Dataset**: There are 11 attributes present in the dataset. The description for each is as follows:
 
 **work_year**: The year the salary was paid.
 
