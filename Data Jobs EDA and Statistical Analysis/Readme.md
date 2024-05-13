@@ -1,4 +1,4 @@
-This project shows EDA and Statistical Analysis of Data professionals in AI and Data science space.
+This project shows EDA and Statistical Analysis of Data professionals in AI and Data science space. 
 
 -> We have used a Kaggle dataset containing weekly updated data regarding the Data jobs and salaries for each profession. [Dataset](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries/data?select=salaries.csv)
 
